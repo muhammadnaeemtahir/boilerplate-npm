@@ -5,6 +5,11 @@
     "email": "m.naeemtahir@hotmail.com"
   },
   "description": "A project that does nothing but pass FCC tests",
+  "keywords": [
+	"freecodecamp",
+	"node",
+	"npm"
+  ],
   "dependencies": {
     "express": "^4.14.0"
   },
